@@ -1,5 +1,43 @@
 # Rediseño de la web corporativa de Amable
 
+## El reto
+## La solución
+_________________________________________________________________________________________
+## NUESTRO PROCESO UX
+## Research
+### Entrevista con el cliente
+[Guía de preguntas cliente](https://docs.google.com/document/d/1xp8-Wt4YJBhPqrilI2Fp2Q73oZ1-6fN6IaSxGJ7G3KU/edit?usp=sharing)
+
+[Entrevista con cliente](https://www.useloom.com/share/265280d1ee0f4bd1bae4f9f60b500857)
+
+### Benchmark
+![wunderman](https://user-images.githubusercontent.com/39272944/47316241-49bee900-d60c-11e8-8887-a8f0e5cf2d63.png)
+![victoria](https://user-images.githubusercontent.com/39272944/47316243-4a577f80-d60c-11e8-84ff-52af53818d5e.png)
+![liquid](https://user-images.githubusercontent.com/39272944/47316244-4a577f80-d60c-11e8-9ee1-1e05fa13acdf.PNG)
+<img width="930" alt="mambo" src="https://user-images.githubusercontent.com/39272944/47316246-4af01600-d60c-11e8-9d03-3681b70824eb.png">
+<img width="930" alt="continuum" src="https://user-images.githubusercontent.com/39272944/47316247-4af01600-d60c-11e8-8e95-647353b5a8cf.png">
+<img width="930" alt="multiplica" src="https://user-images.githubusercontent.com/39272944/47316249-4b88ac80-d60c-11e8-92c9-fec999265dd9.png">
+ 
+## Síntesis y definición
+![img_20181016_150214](https://user-images.githubusercontent.com/39272944/47315393-1713f100-d60a-11e8-81de-af3e2ce9db8b.jpg)
+
+![captura](https://user-images.githubusercontent.com/39272944/47315845-437c3d00-d60b-11e8-862d-59ca8508e15b.PNG)
+## Ideación
+### Mapa de navegación
+![mapa de navegación](https://user-images.githubusercontent.com/39272944/47315367-ffd50380-d609-11e8-8798-ca149737103d.png)
+
+## Prototipado
+### Baja fidelidad
+![1](https://user-images.githubusercontent.com/39272944/47315696-f304df80-d60a-11e8-93ec-7b30ed733cc6.jpg)
+![08c1f8d2-9015-4eaa-84fb-a580aff56cb8](https://user-images.githubusercontent.com/39272944/47315697-f304df80-d60a-11e8-80ce-8b80ea56507d.jpg)
+![24c2919d-1f1b-4eac-8265-90b894629cf3](https://user-images.githubusercontent.com/39272944/47315698-f39d7600-d60a-11e8-8822-053547525621.jpg)
+![49199d6d-9391-407e-9364-c1ac6763fa95](https://user-images.githubusercontent.com/39272944/47315699-f39d7600-d60a-11e8-881a-820ef4918465.jpg)
+![b57c9c3f-b42c-4ca8-b64f-7c4034c9f349](https://user-images.githubusercontent.com/39272944/47315702-f4360c80-d60a-11e8-895c-4b9766987439.jpg)
+#### Alta fidelidad
+Marvel 
+## Testing
+![img_20181016_154414](https://user-images.githubusercontent.com/39272944/47315392-167b5a80-d60a-11e8-8b01-b525d2ea8703.jpg)
+
 ## Preámbulo
 
 [Amable](http://www.amable.com/) es una empresa consultora de Diseño de Experiencia de
