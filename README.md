@@ -1,27 +1,67 @@
 # Rediseño de la web corporativa de Amable
+Proyecto realizado por EsUX.
+## Sobre Amable
+Amable es una empresa consultora de Diseño de Experiencia de Usuario con presencia en Chile, Ecuador y Perú.
+
+La web corporativa (www.amable.com) requiere una actualización de emergencia debido a que la versión anterior fue recientemente dada de baja por un hackeo del servidor. La versión actual es un "parche" temporal rápido, hecho en un par de días, y que solamente muestra un resumen de lo que es Amable.
 
 ## El reto
-## La solución
-_________________________________________________________________________________________
-## NUESTRO PROCESO UX
-## Research
+Crear una web que comunique lo que es y lo que hace Amable. Esta interfaz debe conectar con sus usuarios,transmitir su esencia y brindar credibilidad a la marca.
+
+A partir de ello se definireron algunos retos específicos:
+
+* Destacar el expertis de Amable mostrando sus clientes y la calidad de sus trabajos. 
+* Mostrar a su equipo y su trayectoria.
+* A nivel de UX Writing, crear una voz para Amable que se comunique con un lenguaje que pueda ser entendido por cualquier persona.  
+* A nivel de UI, crear una interfaz minimalista que trasmita la simpleza de Amable.
+*  Explicar cuál es su proceso y los servicios que brinda de forma visual.
+
+
+## Nuestro proceso de diseño UX
+### Research y síntesis
+Partimos analizando la [investigación](https://github.com/Laboratoria/lim-2018-01-ux-web-amable/blob/master/documentos/research_web_amable.pdf) que Amable nos brindó. De esta forma, logramos identificar los siguientes insights de los usuarios potenciales:
+
+1. Los usuarios tienen un concepto difuso sobre servicios de innovación.
+2. Los usuarios desean trabajar con expertos para compartir este conocimiento con otras áreas de la empresa.
+3. Las empresas contratan a Amable por el expertis que tiene cada miembro del equipo. 
+
+### User persona
+![user](https://user-images.githubusercontent.com/39272944/48036132-f634bb00-e134-11e8-8a6f-3be081b0623f.png) 
+
 ### Entrevista con el cliente
+Para no peder de vista el know-how del negocio acordamos una entrevista con nuestro cliente. 
+
 [Guía de preguntas cliente](https://docs.google.com/document/d/1xp8-Wt4YJBhPqrilI2Fp2Q73oZ1-6fN6IaSxGJ7G3KU/edit?usp=sharing)
 
 [Entrevista con cliente](https://www.useloom.com/share/265280d1ee0f4bd1bae4f9f60b500857)
 
-### Benchmark
-![wunderman](https://user-images.githubusercontent.com/39272944/47316241-49bee900-d60c-11e8-8887-a8f0e5cf2d63.png)
-![victoria](https://user-images.githubusercontent.com/39272944/47316243-4a577f80-d60c-11e8-84ff-52af53818d5e.png)
-![liquid](https://user-images.githubusercontent.com/39272944/47316244-4a577f80-d60c-11e8-9ee1-1e05fa13acdf.PNG)
-<img width="930" alt="mambo" src="https://user-images.githubusercontent.com/39272944/47316246-4af01600-d60c-11e8-9d03-3681b70824eb.png">
-<img width="930" alt="continuum" src="https://user-images.githubusercontent.com/39272944/47316247-4af01600-d60c-11e8-8e95-647353b5a8cf.png">
-<img width="930" alt="multiplica" src="https://user-images.githubusercontent.com/39272944/47316249-4b88ac80-d60c-11e8-92c9-fec999265dd9.png">
- 
-## Síntesis y definición
+## Ideación
+En esta etapa usamos las siguientes herramientas: 
+
+### Conceptualización y affinity map
+Visión, de Marvel, representa muy bien lo que es Amable. La conceptualización global nos permitió hacer más tangible "la voz" de Amable. Para llegar a este resultado usamos affinity map.
+
+![concept](https://user-images.githubusercontent.com/39272944/48036458-89babb80-e136-11e8-8e86-b9c0e73ce3e7.png)
+
+
 ![img_20181016_150214](https://user-images.githubusercontent.com/39272944/47315393-1713f100-d60a-11e8-81de-af3e2ce9db8b.jpg)
 
-![captura](https://user-images.githubusercontent.com/39272944/47315845-437c3d00-d60b-11e8-862d-59ca8508e15b.PNG)
+### Benchmark
+Para este proyecto hicimos un análisis riguroso de webs corporativas de agencias de UX locales y extranjeras. Mira el benchmark completo [aquí](https://drive.google.com/drive/folders/1sqAUpUomHsaGC1ayk3CzoiyW-y1R1MO5?usp=sharing).
+
+
+
+<img width="930" alt="continuum" src="https://user-images.githubusercontent.com/39272944/47316247-4af01600-d60c-11e8-8e95-647353b5a8cf.png">
+
+![victoria](https://user-images.githubusercontent.com/39272944/47316243-4a577f80-d60c-11e8-84ff-52af53818d5e.png)
+
+## Nuestra propuesta
+_________________________________________________________________________________________
+## NUESTRO PROCESO UX
+
+ 
+## Síntesis y definición
+
 ## Ideación
 ### Mapa de navegación
 ![mapa de navegación](https://user-images.githubusercontent.com/39272944/47315367-ffd50380-d609-11e8-8798-ca149737103d.png)
