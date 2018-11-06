@@ -94,10 +94,9 @@ Para este proyecto decidimos que la primera cara con el usuario potencial de Ama
 
 [Marvel Prototipo 1](https://www.figma.com/proto/KRt8HsfCQEa2FXVf3QfhUcM7/Amable-1?node-id=0%3A1&scaling=min-zoom)
 ## Testing
-### Principales hallazgos 
 El testing se realizó con 6 personas: 1 coordinador del área digital de una empresa y 5 miembros de Fábrica Digital de Scotiabank, actual cliente de Amable. 
+### Principales hallazgos 
 
-Estos son los hallazgos por sección:
 - Los usuarios buscan scrollear.
 - Cuando scrollean no le darían ver más  a la sección detallada. Es lo último que hacen. 
 - El tema visual fue muy bien recibido por los usuarios.
@@ -105,7 +104,9 @@ Estos son los hallazgos por sección:
 - No comprenden “Somos cercanos”, piensan que es un botón o lo pasan por alto.
 - Esperan información en enlaces. 
 - Quieren encontrar un chat.
-- Le agradan los títulos grandes de cada sección, pero les parece natural encontrarlo en otro orden (Quiénes somos primero)
+- Le agradan los títulos grandes de cada sección, pero les parece natural encontrarlo en otro orden (Quiénes somos primero).
+
+Estos son los hallazgos por sección:
 
 - **¿Qué hacemos?**  
 - Les gusta palabra ‘valor’, pero el texto es muy genérico.
