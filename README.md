@@ -150,8 +150,10 @@ Uno de los patrones que encontramos fue que los usuarios buscan encontrar testim
 
 **¿Qué hacemos?**
 - Servicios - link
+
 **Nuestro proceso**
 - Proceso UX graficado
+
 **Clientes** 
 - Lista de clientes
 - Testimonios e impacto 
@@ -179,6 +181,7 @@ Mira el código [aquí](https://zpl.io/bWk0lWM)
 
 **¡Qué bueno que estés aquí!**
 
-"Solo llegaras mas rápido, pero acompañado llegarás mas lejos"
+"Solo llegaras más rápido, pero acompañado llegarás más lejos"
+
 ![img_20181016_154414](https://user-images.githubusercontent.com/39272944/47315392-167b5a80-d60a-11e8-8b01-b525d2ea8703.jpg)
 
